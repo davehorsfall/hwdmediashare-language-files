@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.6" type="file" method="upgrade">
+	<name>hwdmediashare_language_pack</name>
+	<creationDate>2012-01-13</creationDate>
+	<author>Highwood Design</author>
+	<authorEmail>info@hwdmediashare.co.uk</authorEmail>
+	<authorUrl>http://hwdmediashare.co.uk</authorUrl>
+	<copyright>(C) 2007 - 2011 Highwood Design Limited</copyright>
+	<license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
+	<version>0.0.1</version>
+	<description>PLG_HWDMEDIASHARE_REMOTE_YOUTUBECOM_XML_DESCRIPTION</description>
+	
+	
+	<fileset>
+		<files folder="site" target="language/da-DK">
+			<filename>da-DK.com_hwdmediashare.ini</filename>
+		</files>
+		<files folder="admin" target="administrator/language/da-DK">
+			<filename>da-DK.com_hwdmediashare.ini</filename>
+			<filename>da-DK.com_hwdmediashare.sys.ini</filename>
+		</files>
+	</fileset>
+</extension>
