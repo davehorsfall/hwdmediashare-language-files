@@ -11,38 +11,38 @@
 	<description>HWDMEDIASHARE_LANGUAGE_PACK_XML_DESCRIPTION</description>
 
 	<fileset>
-                <!-- Afrikaans -->
+                <!-- Afrikaans 
 		<files folder="site" target="language/af-ZA">
 			<filename>af-ZA.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/af-ZA">
 			<filename>af-ZA.com_hwdmediashare.ini</filename>
 			<filename>af-ZA.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Arabic Unitag -->
+		</files>-->
+                <!-- Arabic Unitag 
 		<files folder="site" target="language/ar-AA">
 			<filename>ar-AA.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/ar-AA">
 			<filename>ar-AA.com_hwdmediashare.ini</filename>
 			<filename>ar-AA.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Azeri -->
+		</files>-->
+                <!-- Azeri 
 		<files folder="site" target="language/az-AZ">
 			<filename>az-AZ.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/az-AZ">
 			<filename>az-AZ.com_hwdmediashare.ini</filename>
 			<filename>az-AZ.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Belarusian -->
+		</files>-->
+                <!-- Belarusian 
 		<files folder="site" target="language/be-BY">
 			<filename>be-BY.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/be-BY">
 			<filename>be-BY.com_hwdmediashare.ini</filename>
 			<filename>be-BY.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- Bulgarian -->
 		<files folder="site" target="language/bg-BG">
 			<filename>bg-BG.com_hwdmediashare.ini</filename>
@@ -51,38 +51,38 @@
 			<filename>bg-BG.com_hwdmediashare.ini</filename>
 			<filename>bg-BG.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Bengali Bangladesh -->
+                <!-- Bengali Bangladesh 
 		<files folder="site" target="language/bn-BD">
 			<filename>bn-BD.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/bn-BD">
 			<filename>bn-BD.com_hwdmediashare.ini</filename>
 			<filename>bn-BD.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Bosnian -->
+		</files>-->
+                <!-- Bosnian 
 		<files folder="site" target="language/bs-BA">
 			<filename>bs-BA.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/bs-BA">
 			<filename>bs-BA.com_hwdmediashare.ini</filename>
 			<filename>bs-BA.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Kurdish Soranî -->
+		</files>-->
+                <!-- Kurdish Soranî 
 		<files folder="site" target="language/ckb-IQ">
 			<filename>ckb-IQ.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/ckb-IQ">
 			<filename>ckb-IQ.com_hwdmediashare.ini</filename>
 			<filename>ckb-IQ.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Czech -->
+		</files>-->
+                <!-- Czech 
 		<files folder="site" target="language/cs-CZ">
 			<filename>cs-CZ.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/cs-CZ">
 			<filename>cs-CZ.com_hwdmediashare.ini</filename>
 			<filename>cs-CZ.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- Danish -->
 		<files folder="site" target="language/da-DK">
 			<filename>da-DK.com_hwdmediashare.ini</filename>
@@ -91,22 +91,22 @@
 			<filename>da-DK.com_hwdmediashare.ini</filename>
 			<filename>da-DK.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- German -->
+                <!-- German 
 		<files folder="site" target="language/de-DE">
 			<filename>de-DE.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/de-DE">
 			<filename>de-DE.com_hwdmediashare.ini</filename>
 			<filename>de-DE.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Greek -->
+		</files>-->
+                <!-- Greek 
 		<files folder="site" target="language/el-GR">
 			<filename>el-GR.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/el-GR">
 			<filename>el-GR.com_hwdmediashare.ini</filename>
 			<filename>el-GR.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- English -->
 		<files folder="site" target="language/en-AU">
 			<filename>en-AU.com_hwdmediashare.ini</filename>
@@ -131,38 +131,38 @@
 			<filename>es-ES.com_hwdmediashare.ini</filename>
 			<filename>es-ES.com_hwdmediashare.sys.ini</filename>
 		</files> 
-                <!-- Estonian -->
+                <!-- Estonian 
 		<files folder="site" target="language/et-EE">
 			<filename>et-EE.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/et-EE">
 			<filename>et-EE.com_hwdmediashare.ini</filename>
 			<filename>et-EE.com_hwdmediashare.sys.ini</filename>
-		</files> 
-                <!-- Basque -->
+		</files>-->
+                <!-- Basque 
 		<files folder="site" target="language/eu-ES">
 			<filename>eu-ES.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/eu-ES">
 			<filename>eu-ES.com_hwdmediashare.ini</filename>
 			<filename>eu-ES.com_hwdmediashare.sys.ini</filename>
-		</files>  
-                <!-- Persian -->
+		</files>-->
+                <!-- Persian 
 		<files folder="site" target="language/fa-IR">
 			<filename>fa-IR.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/fa-IR">
 			<filename>fa-IR.com_hwdmediashare.ini</filename>
 			<filename>fa-IR.com_hwdmediashare.sys.ini</filename>
-		</files>  
-                <!-- Finnish -->
+		</files>-->
+                <!-- Finnish 
 		<files folder="site" target="language/fi-FI">
 			<filename>fi-FI.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/fi-FI">
 			<filename>fi-FI.com_hwdmediashare.ini</filename>
 			<filename>fi-FI.com_hwdmediashare.sys.ini</filename>
-		</files> 
+		</files>-->
                 <!-- French -->
 		<files folder="site" target="language/fr-FR">
 			<filename>fr-FR.com_hwdmediashare.ini</filename>
@@ -171,46 +171,46 @@
 			<filename>fr-FR.com_hwdmediashare.ini</filename>
 			<filename>fr-FR.com_hwdmediashare.sys.ini</filename>
 		</files> 
-                <!-- Scottish Gaelic -->
+                <!-- Scottish Gaelic 
 		<files folder="site" target="language/gd-GB">
 			<filename>gd-GB.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/gd-GB">
 			<filename>gd-GB.com_hwdmediashare.ini</filename>
 			<filename>gd-GB.com_hwdmediashare.sys.ini</filename>
-		</files> 
-                <!-- Galician -->
+		</files>-->
+                <!-- Galician 
 		<files folder="site" target="language/gl-ES">
 			<filename>gl-ES.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/gl-ES">
 			<filename>gl-ES.com_hwdmediashare.ini</filename>
 			<filename>gl-ES.com_hwdmediashare.sys.ini</filename>
-		</files> 
-                <!-- Gujarati -->
+		</files>-->
+                <!-- Gujarati 
 		<files folder="site" target="language/gu-IN">
 			<filename>gu-IN.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/gu-IN">
 			<filename>gu-IN.com_hwdmediashare.ini</filename>
 			<filename>gu-IN.com_hwdmediashare.sys.ini</filename>
-		</files> 
-                <!-- Hebrew -->
+		</files>-->
+                <!-- Hebrew 
 		<files folder="site" target="language/he-IL">
 			<filename>he-IL.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/he-IL">
 			<filename>he-IL.com_hwdmediashare.ini</filename>
 			<filename>he-IL.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Croatian -->
+		</files>-->
+                <!-- Croatian 
 		<files folder="site" target="language/hr-HR">
 			<filename>hr-HR.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/hr-HR">
 			<filename>hr-HR.com_hwdmediashare.ini</filename>
 			<filename>hr-HR.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- Hungarian -->
 		<files folder="site" target="language/hu-HU">
 			<filename>hu-HU.com_hwdmediashare.ini</filename>
@@ -235,62 +235,62 @@
 			<filename>ja-JP.com_hwdmediashare.ini</filename>
 			<filename>ja-JP.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Georgian -->
+                <!-- Georgian 
 		<files folder="site" target="language/ka-GE">
 			<filename>ka-GE.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/ka-GE">
 			<filename>ka-GE.com_hwdmediashare.ini</filename>
 			<filename>ka-GE.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Khmer -->
+		</files>-->
+                <!-- Khmer 
 		<files folder="site" target="language/km-KH">
 			<filename>km-KH.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/km-KH">
 			<filename>km-KH.com_hwdmediashare.ini</filename>
 			<filename>km-KH.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Laotian -->
+		</files>-->
+                <!-- Laotian 
 		<files folder="site" target="language/lo-LA">
 			<filename>lo-LA.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/lo-LA">
 			<filename>lo-LA.com_hwdmediashare.ini</filename>
 			<filename>lo-LA.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Lithuanian -->
+		</files>-->
+                <!-- Lithuanian 
 		<files folder="site" target="language/lt-LT">
 			<filename>lt-LT.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/lt-LT">
 			<filename>lt-LT.com_hwdmediashare.ini</filename>
 			<filename>lt-LT.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Latvian -->
+		</files>-->
+                <!-- Latvian 
 		<files folder="site" target="language/lv-LV">
 			<filename>lv-LV.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/lv-LV">
 			<filename>lv-LV.com_hwdmediashare.ini</filename>
 			<filename>lv-LV.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Macedonian -->
+		</files>-->
+                <!-- Macedonian 
 		<files folder="site" target="language/mk-MK">
 			<filename>mk-MK.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/mk-MK">
 			<filename>mk-MK.com_hwdmediashare.ini</filename>
 			<filename>mk-MK.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Norwegian Bokmål -->
+		</files>-->
+                <!-- Norwegian Bokmål 
 		<files folder="site" target="language/nb-NO">
 			<filename>nb-NO.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/nb-NO">
 			<filename>nb-NO.com_hwdmediashare.ini</filename>
 			<filename>nb-NO.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- Dutch -->
 		<files folder="site" target="language/nl-NL">
 			<filename>nl-NL.com_hwdmediashare.ini</filename>
@@ -299,14 +299,14 @@
 			<filename>nl-NL.com_hwdmediashare.ini</filename>
 			<filename>nl-NL.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Norwegian Nynorsk -->
+                <!-- Norwegian Nynorsk 
 		<files folder="site" target="language/nn-NO">
 			<filename>nn-NO.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/nn-NO">
 			<filename>nn-NO.com_hwdmediashare.ini</filename>
 			<filename>nn-NO.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- Polish -->
 		<files folder="site" target="language/pl-PL">
 			<filename>pl-PL.com_hwdmediashare.ini</filename>
@@ -315,30 +315,30 @@
 			<filename>pl-PL.com_hwdmediashare.ini</filename>
 			<filename>pl-PL.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Brazilian Portuguese -->
+                <!-- Brazilian Portuguese 
 		<files folder="site" target="language/pt-BR">
 			<filename>pt-BR.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/pt-BR">
 			<filename>pt-BR.com_hwdmediashare.ini</filename>
 			<filename>pt-BR.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Portuguese -->
+		</files>-->
+                <!-- Portuguese 
 		<files folder="site" target="language/pt-PT">
 			<filename>pt-PT.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/pt-PT">
 			<filename>pt-PT.com_hwdmediashare.ini</filename>
 			<filename>pt-PT.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Romanian -->
+		</files>-->
+                <!-- Romanian 
 		<files folder="site" target="language/ro-RO">
 			<filename>ro-RO.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/ro-RO">
 			<filename>ro-RO.com_hwdmediashare.ini</filename>
 			<filename>ro-RO.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- Russian -->
 		<files folder="site" target="language/ru-RU">
 			<filename>ru-RU.com_hwdmediashare.ini</filename>
@@ -347,14 +347,14 @@
 			<filename>ru-RU.com_hwdmediashare.ini</filename>
 			<filename>ru-RU.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Slovak -->
+                <!-- Slovak 
 		<files folder="site" target="language/sk-SK">
 			<filename>sk-SK.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/sk-SK">
 			<filename>sk-SK.com_hwdmediashare.ini</filename>
 			<filename>sk-SK.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- Serbian -->
 		<files folder="site" target="language/sr-RS">
 			<filename>sr-RS.com_hwdmediashare.ini</filename>
@@ -379,30 +379,30 @@
 			<filename>sv-SE.com_hwdmediashare.ini</filename>
 			<filename>sv-SE.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Syriac -->
+                <!-- Syriac 
 		<files folder="site" target="language/sy-IQ">
 			<filename>sy-IQ.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/sy-IQ">
 			<filename>sy-IQ.com_hwdmediashare.ini</filename>
 			<filename>sy-IQ.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Tamil India -->
+		</files>-->
+                <!-- Tamil India 
 		<files folder="site" target="language/ta-IN">
 			<filename>ta-IN.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/ta-IN">
 			<filename>ta-IN.com_hwdmediashare.ini</filename>
 			<filename>ta-IN.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Thai -->
+		</files>-->
+                <!-- Thai 
 		<files folder="site" target="language/th-TH">
 			<filename>th-TH.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/th-TH">
 			<filename>th-TH.com_hwdmediashare.ini</filename>
 			<filename>th-TH.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
                 <!-- Turkish -->
 		<files folder="site" target="language/tr-TR">
 			<filename>tr-TR.com_hwdmediashare.ini</filename>
@@ -419,21 +419,21 @@
 			<filename>uk-UA.com_hwdmediashare.ini</filename>
 			<filename>uk-UA.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Chinese Simplified -->
+                <!-- Chinese Simplified 
 		<files folder="site" target="language/zh-CN">
 			<filename>zh-CN.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/zh-CN">
 			<filename>zh-CN.com_hwdmediashare.ini</filename>
 			<filename>zh-CN.com_hwdmediashare.sys.ini</filename>
-		</files>
-                <!-- Chinese Traditional -->
+		</files>-->
+                <!-- Chinese Traditional 
 		<files folder="site" target="language/zh-TW">
 			<filename>zh-TW.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/zh-TW">
 			<filename>zh-TW.com_hwdmediashare.ini</filename>
 			<filename>zh-TW.com_hwdmediashare.sys.ini</filename>
-		</files>
+		</files>-->
 	</fileset>
 </extension>
