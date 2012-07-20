@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension version="1.6" type="file" method="upgrade">
-	<name>hwdmediashare_language_pack</name>
+	<name>hwdMediaShare Language Pack</name>
 	<creationDate>2012</creationDate>
 	<author>Highwood Design</author>
 	<authorEmail>info@hwdmediashare.co.uk</authorEmail>
 	<authorUrl>http://hwdmediashare.co.uk</authorUrl>
-	<copyright>(C) 2007 - 2011 Highwood Design Limited</copyright>
+	<copyright>(C) 2012 Highwood Design Limited</copyright>
 	<license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
-	<version>0.0.1</version>
-	<description>HWDMEDIASHARE_LANGUAGE_PACK_XML_DESCRIPTION</description>
+	<version>1.0</version>
+	<description>hwdMediaShare Language Pack</description>
 
 	<fileset>
                 <!-- Afrikaans 
