@@ -315,14 +315,14 @@
 			<filename>pl-PL.com_hwdmediashare.ini</filename>
 			<filename>pl-PL.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Brazilian Portuguese 
+                <!-- Brazilian Portuguese -->
 		<files folder="site" target="language/pt-BR">
 			<filename>pt-BR.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/pt-BR">
 			<filename>pt-BR.com_hwdmediashare.ini</filename>
 			<filename>pt-BR.com_hwdmediashare.sys.ini</filename>
-		</files>-->
+		</files>
                 <!-- Portuguese 
 		<files folder="site" target="language/pt-PT">
 			<filename>pt-PT.com_hwdmediashare.ini</filename>
