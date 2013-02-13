@@ -427,13 +427,13 @@
 			<filename>zh-CN.com_hwdmediashare.ini</filename>
 			<filename>zh-CN.com_hwdmediashare.sys.ini</filename>
 		</files>
-                <!-- Chinese Traditional 
+                <!-- Chinese Traditional -->
 		<files folder="site" target="language/zh-TW">
 			<filename>zh-TW.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/zh-TW">
 			<filename>zh-TW.com_hwdmediashare.ini</filename>
 			<filename>zh-TW.com_hwdmediashare.sys.ini</filename>
-		</files>-->
+		</files>
 	</fileset>
 </extension>
