@@ -67,6 +67,14 @@
 			<filename>bs-BA.com_hwdmediashare.ini</filename>
 			<filename>bs-BA.com_hwdmediashare.sys.ini</filename>
 		</files>-->
+                <!-- Catalan -->
+		<files folder="site" target="language/ca-ES">
+			<filename>ca-ES.com_hwdmediashare.ini</filename>
+		</files>
+		<files folder="admin" target="administrator/language/ca-ES">
+			<filename>ca-ES.com_hwdmediashare.ini</filename>
+			<filename>ca-ES.com_hwdmediashare.sys.ini</filename>
+		</files>
                 <!-- Kurdish Soranî 
 		<files folder="site" target="language/ckb-IQ">
 			<filename>ckb-IQ.com_hwdmediashare.ini</filename>
