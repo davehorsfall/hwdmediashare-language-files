@@ -155,14 +155,14 @@
 			<filename>eu-ES.com_hwdmediashare.ini</filename>
 			<filename>eu-ES.com_hwdmediashare.sys.ini</filename>
 		</files>-->
-                <!-- Persian 
+                <!-- Persian -->
 		<files folder="site" target="language/fa-IR">
 			<filename>fa-IR.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/fa-IR">
 			<filename>fa-IR.com_hwdmediashare.ini</filename>
 			<filename>fa-IR.com_hwdmediashare.sys.ini</filename>
-		</files>-->
+		</files>
                 <!-- Finnish 
 		<files folder="site" target="language/fi-FI">
 			<filename>fi-FI.com_hwdmediashare.ini</filename>
