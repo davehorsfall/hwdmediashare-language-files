@@ -19,14 +19,14 @@
 			<filename>af-ZA.com_hwdmediashare.ini</filename>
 			<filename>af-ZA.com_hwdmediashare.sys.ini</filename>
 		</files>-->
-                <!-- Arabic Unitag 
+                <!-- Arabic Unitag -->
 		<files folder="site" target="language/ar-AA">
 			<filename>ar-AA.com_hwdmediashare.ini</filename>
 		</files>
 		<files folder="admin" target="administrator/language/ar-AA">
 			<filename>ar-AA.com_hwdmediashare.ini</filename>
 			<filename>ar-AA.com_hwdmediashare.sys.ini</filename>
-		</files>-->
+		</files>
                 <!-- Azeri 
 		<files folder="site" target="language/az-AZ">
 			<filename>az-AZ.com_hwdmediashare.ini</filename>
